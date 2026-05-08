@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+spacy
+pdfplumber
+python-docx
+matplotlib
+wordcloud
+requests
+beautifulsoup4
+plotly

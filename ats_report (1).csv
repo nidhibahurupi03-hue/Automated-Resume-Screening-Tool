@@ -1,0 +1,7 @@
+Name,Email,Phone,Education,Experience,ATS Score,Skills Found,Skill List,Missing Skills,Decision,Recommendation,Candidate,Display Name
+Rahul Sharma,rahul.ai.dev@gmail.com,"+91 9876543210
+",bachelor,2 years,69.96,17,"streamlit, github, git, scikit-learn, data analysis, sql, machine learning, apis, docker, python, pandas, aws, numpy, cloud, spacy, api, nlp",0,Hold,Average fit. Keep on hold.,Rahul Sharma sample resume.pdf,Candidate 1
+Jake Ryan,jake@su.edu,123-456-7890 ,"bachelor, be",0-1 years,44.5,9,"github, git, sql, docker, python, pandas, numpy, cloud, api",1,Reject,Not recommended for current role.,jakes-resume-template.pdf,Candidate 2
+Denis T. - Professional Software Engineer,denistex.dev@gmail.com,Not Found,"bachelor, be, diploma",12 years,40.14,8,"github, git, sql, docker, aws, python, cloud, api",2,Reject,Not recommended for current role.,Denis T. - Software Engineer - Resume (CV).pdf,Candidate 3
+wp-runtime-883a97ef5affbe52.js,Not Found,7633592089,"be, msc, bsc",0-1 years,34.88,7,"github, git, sql, aws, python, cloud, api",3,Reject,Not recommended for current role.,https://github.com/manish-9245/ATS-Friendly-Resume-SDE?utm_source=chatgpt.com,Candidate 4
+Susan Rindt,Not Found,2008-2013,"be, bsc, master, phd",0-1 years,22.8,2,"github, git",8,Reject,Not recommended for current role.,resume.pdf,Candidate 5
